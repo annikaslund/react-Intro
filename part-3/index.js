@@ -1,4 +1,4 @@
 ReactDOM.render(
-    <Person name="annika" age={23}/>,
+    <Person name="aasdkasldkqwbd" age={23}/>,
     document.getElementById("root")
 );
